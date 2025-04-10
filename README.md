@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henryquach204
 - 👀 I’m interested in data analysis and photography
-- 🌱 I’m currently learning Excel, SQL, Tableau and R programming
+- 🌱 I’m currently learning Python, to build on my previous experience with Excel, SQL, Tableau and R programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: quachphotography@gmail.com
 
